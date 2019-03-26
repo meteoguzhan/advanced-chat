@@ -1,0 +1,14 @@
+doctype html
+html
+    head
+        title= title
+        block stylesheets
+            link(rel='stylesheet', href='/stylesheets/style.css')
+            link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.0/css/all.min.css')
+    body
+        div(ng-app="sohbet", ng-cloak)
+            block content
+
+    block javascripts
+        script(src="/angular/angular.min.js")
+        script(src="/javascripts/main.js")

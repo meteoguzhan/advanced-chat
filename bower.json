@@ -1,0 +1,13 @@
+{
+  "name": "sohbet",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mete Oğuzhan Bayrampınar <mo.bayrampinar@faturatim.com.tr>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
