@@ -1,2 +1,2 @@
-# Gelismis-Sohbet
-Gelişmiş Sohbet Uygulaması
+# Advanced Chat
+Advanced Chat
